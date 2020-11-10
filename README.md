@@ -56,10 +56,6 @@ $ php artisan key:generate
 ```
 $ npm run dev
 ```
-3. Ulang Generate Mixing
-```
-$ npm run dev
-```
 
 ### Penggunaan
 1. Run Local Server Laravel
