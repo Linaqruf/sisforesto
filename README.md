@@ -1,5 +1,5 @@
 ## SISFORESTO
-Adalah sebuah Aplikasi Sistem Informasi Restoran yang berfungsi untuk mengelola restoran dan cafe.
+Adalah sebuah Aplikasi Sistem Informasi Restoran yang berfungsi untuk mengelola restoran dan cafe. Sisforesto dibuat dengan Laravel 8.
 
 ### Persiapan
 1. Memiliki akun di github untuk cloning repository
@@ -46,9 +46,25 @@ DB_DATABASE=laravel // Nama Database
 DB_USERNAME=root // Nama Database
 DB_PASSWORD= // Password Database
 ```
-8. Run 
+
+###Langkah Selanjutnya
+1. Generate key untuk aplikasi
 ```
-php artisan serve
+php artisan key:generate
+```
+2. Generate mixing
+```
+$ npm run dev
+```
+3. Ulang Generate Mixing
+```
+$ npm run dev
+```
+
+###Penggunaan
+1. Run Local Server Laravel
+```
+$ php artisan serve
 ```
 
 
