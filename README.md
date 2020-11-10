@@ -47,7 +47,7 @@ DB_USERNAME=root // Nama Database
 DB_PASSWORD= // Password Database
 ```
 
-##Langkah Selanjutnya
+### Langkah Selanjutnya
 1. Generate key untuk aplikasi
 ```
 $ php artisan key:generate
@@ -61,7 +61,7 @@ $ npm run dev
 $ npm run dev
 ```
 
-##Penggunaan
+### Penggunaan
 1. Run Local Server Laravel
 ```
 $ php artisan serve
