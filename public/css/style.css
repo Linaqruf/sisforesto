@@ -1,0 +1,23 @@
+#content-desktop {display: block;}
+#content-mobile {display: none;}
+
+@media screen and (max-width:992px) {
+
+#content-desktop {display: none;}
+#content-mobile {display: block;}
+
+
+}
+
+.c-sidebar-brand {
+	 background-color: #3c4b64;
+}
+.c-sidebar {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(60, 75, 100, 1.0)), url(http://tourizpass.com/trp_backend/media/tour/SG1801458-1.jpg);
+  background-repeat: no-repeat;
+  background-size: 200%;
+  background-position: center;
+
+ 
+
+}
