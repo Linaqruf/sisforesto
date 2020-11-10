@@ -50,7 +50,7 @@ DB_PASSWORD= // Password Database
 ##Langkah Selanjutnya
 1. Generate key untuk aplikasi
 ```
-php artisan key:generate
+$ php artisan key:generate
 ```
 2. Generate mixing
 ```
